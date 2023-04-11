@@ -1,4 +1,30 @@
-header{
-    background-color: F5F5F5;
+.cabecalho {
+background: #59D9F6;
+color: rebeccapurple;
 }
+.logo{
+width: 200px;
+position: relative;
+top: 50px;
+left: 150px;
+}
+.item{
+    font-size: 50px;
+    margin-left: 50px;
+}
+.listaCabecalho{
+    display: flex;
+    position: relative;
+    left: 600px;
 
+}
+.grupodepesca{
+    background-image:linear-gradient(#CB2929,#E1B5B5);
+    border:solid black 7px;
+    
+}
+.grupopescador{
+    margin: auto 200px;
+
+
+}
