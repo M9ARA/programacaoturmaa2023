@@ -1,3 +1,7 @@
+body{
+    font-family: sans-serif;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
 .cabecalho {
 background: #59D9F6;
 color: rebeccapurple;
@@ -25,6 +29,12 @@ left: 150px;
 }
 .grupopescador{
     margin: auto 200px;
+
+
+}
+.grupopescador{
+    background-color: #59D9F6;
+    
 
 
 }
